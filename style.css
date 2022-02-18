@@ -53,6 +53,10 @@ h5 {
     border: 1px solid #333;
     display: block;
     margin-bottom: 1rem;
+    cursor: pointer;
+}
+#btn:hover {
+    background-color: rgb(191, 218, 215);
 }
 #converted_table {
     background-color: antiquewhite;
